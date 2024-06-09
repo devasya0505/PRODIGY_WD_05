@@ -2,7 +2,7 @@
 
 # Task-5 Weather App
 <br>
-<b>Description:</b>
+Description:
 <br>
 This project is a web page that fetches weather data from a weather API based on the user's location or a user-inputted location. It displays the current weather conditions, temperature, and other relevant information to provide a comprehensive weather overview.
 <br>
